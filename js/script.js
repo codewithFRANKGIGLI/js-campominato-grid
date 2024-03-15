@@ -11,12 +11,14 @@
 // Consigli del giorno:  :party_wizard:
 // Scriviamo prima cosa vogliamo fare passo passo in italiano, dividiamo il lavoro in micro problemi.
 
+
+
 // Creare in JavaScript una griglia 10x10.
 // Ogni volta che clicco su un quadrato questo 
 // si colora di verde se il numero contenuto 
 // è pari e in rosso se dispari
 
-// per 64 volte creare un quadratino e ogni quadratino
+// per 100 volte creare un quadratino e ogni quadratino
 // lo aggiungo a grid
     // al click su ogni quadrato ne leggere il numero contenuto
     // se è pari lo coloro di rosso altrimenti di verde

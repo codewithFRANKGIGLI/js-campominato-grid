@@ -21,7 +21,7 @@ img {
 .square {
     width: calc(100% / 10);
     height: calc(100% / 10);
-    background-color: cadetblue;
+    background-color: lightsalmon;
     border: 2px solid black;
     font-size: 30px;
     display: flex;
