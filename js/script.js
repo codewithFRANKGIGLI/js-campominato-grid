@@ -28,13 +28,13 @@ playBtn.addEventListener('click', function() {
       
         // Gestione del click su ogni quadrato
         newSquare.addEventListener('click', function() {
-          // Cambia il bg dell'elemento cliccato
-          this.style.backgroundColor = 'lightskyblue';
-      
-          // Mostra l'alert togliendo il delay, senza questo prima verrebbe l'alert e poi il cambio del bg
-          setTimeout(function() {
-            alert(`Hai cliccato:  ${number}`);
-          }, 0);
+            // Cambia il bg dell'elemento cliccato
+            this.style.backgroundColor = 'lightskyblue';
+        
+            // Mostra l'alert togliendo il delay, senza questo prima verrebbe l'alert e poi il cambio del bg
+            setTimeout(function() {
+                alert(`Hai cliccato:  ${number}`);
+            }, 0);
         });
       
         return newSquare;
